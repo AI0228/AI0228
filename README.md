@@ -3,21 +3,16 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-<img width="40%" alt="Night Coding" src="https://github.com/MisterPrada/misterprada/assets/8146111/91fec7b5-937a-43cc-8a90-4f468f157bc5" align="right"/>
+<img width="40%" alt="Night Coding" src="https://github.com/frankschmidt/misterprada/assets/8146111/91fec7b5-937a-43cc-8a90-4f468f157bc5" align="right"/>
 
 
-🌠&nbsp; Work as a Tech Lead Software Engineer ([EgorovAgency](https://egorovagency.com/))\
+🌠&nbsp; Work as a Tech Lead Software Engineer \
 💡 &nbsp; I'm really fond of developing entertaining stuff for online games on PC.\
 🎓 &nbsp;In addition, I do reverse engineering of applications for Windows.\
 💬 &nbsp;Feel free to reach out for advice or just for some fun discussion.\
 ✉️ &nbsp;Click on one of the links down below to connect me! I'll respond ASAP.
 
-<p align="center">
-<a href="https://discordapp.com/users/240546940901785610"><img src="https://img.shields.io/badge/-@misterprada-5562ea?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://t.me/misterprada"><img src="https://img.shields.io/badge/-@misterprada-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/mister666prada/"><img src="https://img.shields.io/badge/-@mister666prada-orange?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
+To contact me: frankschmidt0228@gmail.com
 ### 🛠 &nbsp;Tech Experience Stack
 
 #### &nbsp; 🧠 AI
