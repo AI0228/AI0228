@@ -11,7 +11,7 @@ Experienced AI & ML Engineer || Full-Stack Developer
 
 Hello. Everyone! Hope you are doing well. I am an experienced AI/ML/DL/CV/NLP expert so I can satisfy you perfectly with my skills and knowledge. I have 8 years of experience with AI/ML/DL/CV/NLP including Python, R, Pytorch, Keras, Tensorflow, Transformers, SLAM, Gan, Stable diffusion, Scikit-learn, Spacy, Opencv, SSD, Yolo, NLTK, Gym, GPT3, ChatGPT, AutoGPT, LangChain, Glove, OpenAI, Spark, Hadoop, Hive, Kubernetes and so on and had done lots of projects . I also have enough experience and skills related to web development such as MERN, MEAN, MEVN Stack and Laravel, Django, Flask, FastAPI and so on. I am very confident in these fields. I will do my best to complete your task within your deadline. If you hire me, I am sure you wouldn't regret absolutely. Plz contact me for more details. I am looking forward to working with you. C U again! Thanks.
 
-*   ✉️  You can contact me at [frankschmidt0228@gmail.com](mailto:frankschmidt0228@gmail.com)
+*   ✉️  You can contact me at [awl19950228@gmail.com](mailto:awl19950228@gmail.com)
 *   🧠  I'm learning Generative AI
 *   🤝  I'm open to collaborating on AI/ML & Full Stack### Skills
 
