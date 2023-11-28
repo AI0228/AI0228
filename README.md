@@ -6,13 +6,16 @@
 <img width="40%" alt="Night Coding" src="https://github.com/frankschmidt/misterprada/assets/8146111/91fec7b5-937a-43cc-8a90-4f468f157bc5" align="right"/>
 
 
-🌠&nbsp; Work as a Tech Lead Software Engineer \
-💡 &nbsp; I'm really fond of developing entertaining stuff for online games on PC.\
-🎓 &nbsp;In addition, I do reverse engineering of applications for Windows.\
-💬 &nbsp;Feel free to reach out for advice or just for some fun discussion.\
-✉️ &nbsp;Click on one of the links down below to connect me! I'll respond ASAP.
+Experienced AI & ML Engineer || Full-Stack Developer
+----------------------------------------------------
 
-To contact me: frankschmidt0228@gmail.com
+Hello. Everyone! Hope you are doing well. I am an experienced AI/ML/DL/CV/NLP expert so I can satisfy you perfectly with my skills and knowledge. I have 8 years of experience with AI/ML/DL/CV/NLP including Python, R, Pytorch, Keras, Tensorflow, Transformers, SLAM, Gan, Stable diffusion, Scikit-learn, Spacy, Opencv, SSD, Yolo, NLTK, Gym, GPT3, ChatGPT, AutoGPT, LangChain, Glove, OpenAI, Spark, Hadoop, Hive, Kubernetes and so on and had done lots of projects . I also have enough experience and skills related to web development such as MERN, MEAN, MEVN Stack and Laravel, Django, Flask, FastAPI and so on. I am very confident in these fields. I will do my best to complete your task within your deadline. If you hire me, I am sure you wouldn't regret absolutely. Plz contact me for more details. I am looking forward to working with you. C U again! Thanks.
+
+*   ✉️  You can contact me at [frankschmidt0228@gmail.com](mailto:frankschmidt0228@gmail.com)
+*   🧠  I'm learning Generative AI
+*   🤝  I'm open to collaborating on AI/ML & Full Stack### Skills
+
+*   
 ### 🛠 &nbsp;Tech Experience Stack
 
 #### &nbsp; 🧠 AI
